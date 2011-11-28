@@ -1,0 +1,389 @@
+[23/Nov/2011:18:15:13 -0800] Server.httpServe: START (EventLoopSimple)
+[24/Nov/2011:14:37:05 -0800] Server.httpServe: START (EventLoopSimple)
+[24/Nov/2011:19:31:24 -0800] Server.httpServe: SHUTDOWN
+[24/Nov/2011:19:31:24 -0800] Server.httpServe: BACKEND STOPPED
+[27/Nov/2011:21:41:35 -0800] Server.httpServe: START (EventLoopSimple)
+[27/Nov/2011:21:44:58 -0800] Server.httpServe: SHUTDOWN
+[27/Nov/2011:21:44:58 -0800] Server.httpServe: BACKEND STOPPED
+[27/Nov/2011:21:45:21 -0800] Server.httpServe: START (EventLoopSimple)
+[27/Nov/2011:21:47:53 -0800] Server.httpServe: SHUTDOWN
+[27/Nov/2011:21:47:53 -0800] Server.httpServe: BACKEND STOPPED
+[27/Nov/2011:23:53:51 -0800] Server.httpServe: START (EventLoopSimple)
+[27/Nov/2011:23:58:55 -0800] Server.httpServe: SHUTDOWN
+[27/Nov/2011:23:58:55 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:02:01:25 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:02:01:30 -0800] During processing of request from 127.0.0.1:57339
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:57339\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: \n    contextpath: /\n    snapletpath: \n    URI: /\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+tasks.txt: openFile: does not exist (No such file or directory)
+[28/Nov/2011:02:02:05 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:02:02:05 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:02:04:03 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:02:04:27 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:02:04:27 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:02:04:27 -0800] During processing of request from 127.0.0.1:57346
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:57346\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: \n    contextpath: /\n    snapletpath: \n    URI: /\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+thread killed
+[28/Nov/2011:02:05:28 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:02:05:39 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:02:05:39 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:02:05:39 -0800] During processing of request from 127.0.0.1:57349
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:57349\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: \n    contextpath: /\n    snapletpath: \n    URI: /\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+thread killed
+[28/Nov/2011:02:09:28 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:02:10:27 -0800] During processing of request from 127.0.0.1:57366
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:57366\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Cache-Control: max-age=0\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: \n    contextpath: /\n    snapletpath: \n    URI: /\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+~/njordan/tasks.txt: openFile: does not exist (No such file or directory)
+[28/Nov/2011:02:10:51 -0800] During processing of request from 127.0.0.1:57366
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:57366\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Cache-Control: max-age=0\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: \n    contextpath: /\n    snapletpath: \n    URI: /\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+~/njordan/tasks.txt: openFile: does not exist (No such file or directory)
+[28/Nov/2011:02:10:53 -0800] During processing of request from 127.0.0.1:57366
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:57366\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Cache-Control: max-age=0\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: \n    contextpath: /\n    snapletpath: \n    URI: /\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+~/njordan/tasks.txt: openFile: does not exist (No such file or directory)
+[28/Nov/2011:02:11:31 -0800] During processing of request from 127.0.0.1:57366
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:57366\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: \n    contextpath: /\n    snapletpath: \n    URI: /\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+~/njordan/tasks.txt: openFile: does not exist (No such file or directory)
+[28/Nov/2011:02:12:03 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:02:12:03 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:02:13:08 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:02:13:55 -0800] During processing of request from 127.0.0.1:57371
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:57371\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Cache-Control: max-age=0\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: \n    contextpath: /\n    snapletpath: \n    URI: /\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+stack overflow
+[28/Nov/2011:02:18:18 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:02:18:18 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:02:25:52 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:02:26:12 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:02:26:12 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:02:26:12 -0800] During processing of request from 127.0.0.1:57539
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:57539\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Cache-Control: max-age=0\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: \n    contextpath: /\n    snapletpath: \n    URI: /\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+thread killed
+[28/Nov/2011:02:40:49 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:02:40:58 -0800] During processing of request from 127.0.0.1:57635
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:57635\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: \n    contextpath: /\n    snapletpath: \n    URI: /\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+stack overflow
+[28/Nov/2011:02:43:55 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:02:43:55 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:02:44:12 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:02:46:09 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:02:46:09 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:02:58:01 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:02:58:09 -0800] httpSession caught an exception during sending response phase:
+During processing of request from 127.0.0.1:57806
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:57806\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Cache-Control: max-age=0\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: \n    contextpath: /\n    snapletpath: \n    URI: /\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+input must be empty
+[28/Nov/2011:02:58:16 -0800] httpSession caught an exception during sending response phase:
+During processing of request from 127.0.0.1:57807
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:57807\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: \n    contextpath: /\n    snapletpath: \n    URI: /\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+input must be empty
+[28/Nov/2011:02:58:41 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:02:58:41 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:02:59:01 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:02:59:07 -0800] httpSession caught an exception during sending response phase:
+During processing of request from 127.0.0.1:48278
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:48278\n    local: 127.0.0.1:9000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:9000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: \n    contextpath: /\n    snapletpath: \n    URI: /\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+input must be empty
+[28/Nov/2011:02:59:47 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:02:59:47 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:03:00:29 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:03:00:35 -0800] httpSession caught an exception during sending response phase:
+During processing of request from 127.0.0.1:57830
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:57830\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: \n    contextpath: /\n    snapletpath: \n    URI: /\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+input must be empty
+[28/Nov/2011:03:00:37 -0800] httpSession caught an exception during sending response phase:
+During processing of request from 127.0.0.1:57831
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:57831\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: \n    contextpath: /\n    snapletpath: \n    URI: /\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+input must be empty
+[28/Nov/2011:03:02:03 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:03:02:03 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:03:02:47 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:03:02:50 -0800] httpSession caught an exception during sending response phase:
+During processing of request from 127.0.0.1:57832
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:57832\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: \n    contextpath: /\n    snapletpath: \n    URI: /\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+input must be empty
+[28/Nov/2011:03:06:46 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:03:06:55 -0800] httpSession caught an exception during sending response phase:
+During processing of request from 127.0.0.1:41078
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:41078\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: \n    contextpath: /\n    snapletpath: \n    URI: /\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+input must be empty
+[28/Nov/2011:03:07:16 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:03:07:16 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:03:07:33 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:03:08:13 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:03:08:13 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:03:09:01 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:03:09:57 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:03:09:57 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:03:10:14 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:03:10:25 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:03:10:25 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:03:10:42 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:03:10:45 -0800] httpSession caught an exception during sending response phase:
+During processing of request from 127.0.0.1:41084
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:41084\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Cache-Control: max-age=0\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: \n    contextpath: /\n    snapletpath: \n    URI: /\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+input must be empty
+[28/Nov/2011:03:12:05 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:03:12:05 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:03:12:23 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:03:33:46 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:03:33:46 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:06:36:33 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:06:37:13 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:06:37:13 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:06:37:16 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:06:37:41 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:06:37:41 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:06:37:42 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:06:38:03 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:06:38:03 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:06:39:55 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:06:41:55 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:06:41:55 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:06:41:57 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:06:41:58 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:06:41:58 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:06:42:19 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:06:43:33 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:06:43:33 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:06:43:55 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:06:45:37 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:06:45:37 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:06:45:53 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:06:47:19 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:06:47:19 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:06:50:08 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:06:52:19 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:06:52:19 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:06:52:35 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:06:58:44 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:06:58:44 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:07:37:10 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:07:37:50 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:07:37:50 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:07:42:36 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:07:44:37 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:07:44:37 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:07:44:54 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:07:45:06 -0800] During processing of request from 127.0.0.1:43100
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:43100\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Referer: http://localhost:7000/\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: remove/undefined\n    contextpath: /\n    snapletpath: \n    URI: /remove/undefined\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+/home/njordan/tasks.txt: openFile: resource busy (file is locked)
+[28/Nov/2011:07:45:29 -0800] During processing of request from 127.0.0.1:43100
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:43100\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Referer: http://localhost:7000/\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: remove/undefined\n    contextpath: /\n    snapletpath: \n    URI: /remove/undefined\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+/home/njordan/tasks.txt: openFile: resource busy (file is locked)
+[28/Nov/2011:07:45:36 -0800] During processing of request from 127.0.0.1:43100
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:43100\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Referer: http://localhost:7000/\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: remove/undefined\n    contextpath: /\n    snapletpath: \n    URI: /remove/undefined\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+/home/njordan/tasks.txt: openFile: resource busy (file is locked)
+[28/Nov/2011:07:46:36 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:07:46:36 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:07:46:59 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:07:49:58 -0800] During processing of request from 127.0.0.1:43102
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:43102\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: remove/Task\n    contextpath: /\n    snapletpath: \n    URI: /remove/Task\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+/home/njordan/tasks.txt: openFile: resource busy (file is locked)
+[28/Nov/2011:07:50:03 -0800] During processing of request from 127.0.0.1:43102
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:43102\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: remove/Task\n    contextpath: /\n    snapletpath: \n    URI: /remove/Task\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+/home/njordan/tasks.txt: openFile: resource busy (file is locked)
+[28/Nov/2011:07:51:48 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:07:51:48 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:07:51:49 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:07:51:50 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:07:51:50 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:07:52:12 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:07:53:17 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:07:53:17 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:07:53:32 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:08:00:31 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:08:00:31 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:08:09:22 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:08:12:34 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:08:12:34 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:08:12:50 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:08:12:58 -0800] During processing of request from 127.0.0.1:43174
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:43174\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Referer: http://localhost:7000/\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: remove/Task_5\n    contextpath: /\n    snapletpath: \n    URI: /remove/Task_5\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+/home/njordan/tasks.txt: openFile: resource busy (file is locked)
+[28/Nov/2011:08:17:05 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:08:17:05 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:08:17:19 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:08:17:27 -0800] During processing of request from 127.0.0.1:43205
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:43205\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Referer: http://localhost:7000/\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: remove/Task_4\n    contextpath: /\n    snapletpath: \n    URI: /remove/Task_4\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+/home/njordan/tasks.txt: openFile: resource busy (file is locked)
+[28/Nov/2011:08:17:56 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:08:17:56 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:08:17:59 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:08:18:11 -0800] During processing of request from 127.0.0.1:43206
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:43206\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Referer: http://localhost:7000/\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: remove/Task_2\n    contextpath: /\n    snapletpath: \n    URI: /remove/Task_2\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+/home/njordan/tasks.txt: openFile: resource busy (file is locked)
+[28/Nov/2011:08:19:38 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:08:19:38 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:10:04:36 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:10:04:58 -0800] During processing of request from 127.0.0.1:38011
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:38011\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Referer: http://localhost:7000/\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: remove/ggg\n    contextpath: /\n    snapletpath: \n    URI: /remove/ggg\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+/home/njordan/tasks.txt: openFile: resource busy (file is locked)
+[28/Nov/2011:10:13:39 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:10:13:39 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:10:14:41 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:10:14:53 -0800] During processing of request from 127.0.0.1:38068
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:38068\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Referer: http://localhost:7000/\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: remove/ggg\n    contextpath: /\n    snapletpath: \n    URI: /remove/ggg\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+/home/njordan/tasks.txt: openFile: resource busy (file is locked)
+[28/Nov/2011:10:15:52 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:10:15:52 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:10:30:41 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:10:40:57 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:10:40:57 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:10:41:12 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:11:19:59 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:11:21:29 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:11:21:29 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:11:22:37 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:11:23:44 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:11:23:44 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:11:24:01 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:11:25:49 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:11:25:49 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:11:26:06 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:11:27:06 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:11:27:06 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:11:27:45 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:11:29:42 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:11:29:42 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:11:30:49 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:11:30:58 -0800] During processing of request from 127.0.0.1:53880
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:53880\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Referer: http://localhost:7000/\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: remove/fdsafdsa\n    contextpath: /\n    snapletpath: \n    URI: /remove/fdsafdsa\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+/home/njordan/tasks.txt: hPutStr: illegal operation (handle is closed)
+[28/Nov/2011:11:32:09 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:11:32:09 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:11:32:31 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:11:32:40 -0800] During processing of request from 127.0.0.1:53882
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:53882\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Referer: http://localhost:7000/\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: remove/fdsafdsa\n    contextpath: /\n    snapletpath: \n    URI: /remove/fdsafdsa\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+/home/njordan/tasks.txt: openFile: resource busy (file is locked)
+[28/Nov/2011:11:35:42 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:11:35:42 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:11:36:39 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:11:43:35 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:11:43:35 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:11:43:55 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:11:45:14 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:11:45:14 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:11:45:32 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:11:47:59 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:11:47:59 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:11:48:17 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:11:48:45 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:11:48:45 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:11:49:03 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:11:49:43 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:11:49:43 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:12:00:49 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:12:00:58 -0800] During processing of request from 127.0.0.1:53923
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:53923\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Referer: http://localhost:7000/\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: remove/ttt\n    contextpath: /\n    snapletpath: \n    URI: /remove/ttt\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+/home/njordan/tasks.txt: hPutStr: illegal operation (handle is closed)
+[28/Nov/2011:12:01:19 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:12:01:19 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:12:01:36 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:12:03:05 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:12:03:05 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:12:03:21 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:12:04:21 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:12:04:21 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:12:04:53 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:12:05:02 -0800] During processing of request from 127.0.0.1:53928
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:53928\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Referer: http://localhost:7000/remove/gg53\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: \n    contextpath: /\n    snapletpath: \n    URI: /\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+/home/njordan/tasks.txt: openFile: does not exist (No such file or directory)
+[28/Nov/2011:12:06:25 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:12:06:25 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:12:06:42 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:12:06:46 -0800] During processing of request from 127.0.0.1:53932
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:53932\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: \n    contextpath: /\n    snapletpath: \n    URI: /\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+/home/njordan/tasks.txt: openFile: does not exist (No such file or directory)
+[28/Nov/2011:12:06:49 -0800] During processing of request from 127.0.0.1:53932
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:53932\n    local: 127.0.0.1:7000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0\n Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\n Accept-Language: en-us,en;q=0.5\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\n Host: localhost:7000\n Connection: keep-alive\n Accept-Encoding: gzip, deflate\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: \n    contextpath: /\n    snapletpath: \n    URI: /\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+/home/njordan/tasks.txt: openFile: does not exist (No such file or directory)
+[28/Nov/2011:12:08:18 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:12:08:18 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:12:09:22 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:12:10:45 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:12:10:45 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:12:11:03 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:12:15:53 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:12:15:53 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:12:17:46 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:12:20:02 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:12:20:02 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:12:41:41 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:12:43:09 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:12:43:09 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:12:43:28 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:12:45:22 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:12:45:22 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:12:45:40 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:12:46:10 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:12:46:10 -0800] Server.httpServe: BACKEND STOPPED
+[28/Nov/2011:12:46:21 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:13:00:44 -0800] Server.httpServe: START (EventLoopSimple)
+[28/Nov/2011:13:01:51 -0800] Server.httpServe: SHUTDOWN
+[28/Nov/2011:13:01:51 -0800] Server.httpServe: BACKEND STOPPED
